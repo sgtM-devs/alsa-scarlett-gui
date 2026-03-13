@@ -125,6 +125,7 @@ sudo pacman -S gtk4
 
 ### 2. Build
 1. Download from GitHub
+Using Git:
 ```bash
 git clone https://github.com/geoffreybennett/alsa-scarlett-gui
 cd alsa-scarlett-gui
