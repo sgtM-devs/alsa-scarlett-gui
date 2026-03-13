@@ -102,7 +102,7 @@ https://github.com/geoffreybennett/scarlett4-firmware and place it in
 #### Fedora
 Install packages:
 ```bash
-sudo dnf -y install alsa-lib-devel gtk4-devel openssl-devel
+sudo dnf -y install git make gcc alsa-lib-devel gtk4-devel openssl-devel
 ```
 
 #### OpenSUSE
