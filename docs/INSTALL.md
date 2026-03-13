@@ -141,9 +141,9 @@ make -j$(nproc)
 ./alsa-scarlett-gui
 ```
 
-### 3. Install
+### 3. Installation
 You have 2 options:
-1. **System installation** _(`/usr/local`, with binary, desktop file, and icon)_
+1. **System installation** (in `/usr/local`, with binary, desktop file, and icon)
 2. **Flatpak**
 
 #### 1. System installation
